@@ -1,0 +1,6 @@
+This is the test file for testing GIt commands
+This is the date we are enetering in this file.
+1. Hello world
+2. to delete
+3. to modify
+4. to test new
